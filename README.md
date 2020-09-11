@@ -4,7 +4,6 @@ This repository is used for training on github.
 >2.line
 >3.line
 
-=======
 
 ```python
 > Orhan added this line.
